@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c503e8b0.chunk.css",
+    "main.js": "/static/js/main.a651feb9.chunk.js",
+    "main.js.map": "/static/js/main.a651feb9.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.6eb1ce20.chunk.js": "/static/js/2.6eb1ce20.chunk.js",
+    "static/js/2.6eb1ce20.chunk.js.map": "/static/js/2.6eb1ce20.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4dd6dd4b9de656806686d663536224ee.js": "/precache-manifest.4dd6dd4b9de656806686d663536224ee.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c503e8b0.chunk.css.map": "/static/css/main.c503e8b0.chunk.css.map",
+    "static/media/Section1.mp3": "/static/media/Section1.d35d7a12.mp3",
+    "static/media/Section2.mp3": "/static/media/Section2.c49aa1d0.mp3",
+    "static/media/Section3.mp3": "/static/media/Section3.e140c531.mp3",
+    "static/media/Section4.mp3": "/static/media/Section4.8d582eba.mp3",
+    "static/media/academicreadingmodule3.png": "/static/media/academicreadingmodule3.ff2e02e4.png",
+    "static/media/Academic.css": "/static/media/bg2.d1f79134.jpg",
+    "static/media/SpeakingModuleHoldingPage.css": "/static/media/bg3.cc6c51b3.jpg",
+    "static/media/scorecard.png": "/static/media/scorecard.4e877f58.png",
+    "static/media/section3graph.png": "/static/media/section3graph.36e77e2c.png",
+    "static/media/section3graph2.png": "/static/media/section3graph2.44bdab3f.png",
+    "static/media/shark-image.png": "/static/media/shark-image.674087d2.png"
+  }
+}

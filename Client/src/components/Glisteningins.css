@@ -1,0 +1,54 @@
+/* OnlineListeningTestInstructions.css */
+.instructions {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  color: white; 
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 15px;
+  color: white;
+}
+
+h3 {
+  font-size: 20px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  color: white;
+}
+
+p {
+  font-size: 16px;
+  margin-bottom: 10px;
+  color: white;
+}
+
+ul, ol {
+  margin-left: 20px;
+  color: white;
+}
+
+.start-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #ff0e0e;
+ 
+  border-radius: 20px;
+  color: white;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 15px;
+  text-decoration: none; /* Add text-decoration for links */
+}
+
+.start-button:hover {
+  background-color: #cc0b0b;
+}
+
+

@@ -1,0 +1,114 @@
+.listening-test-container {
+ 
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    
+    margin: 0 auto;
+  }
+  
+.test-title {
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+.questions-container input {
+    width: 15%;
+  }
+  .audio-player {
+    max-width: 600px;
+    margin-bottom: 20px;
+  }
+  
+  .questions-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 4px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+    color: black;
+  }
+  
+  .questions-container p {
+    margin: 15px 0;
+    color: black;
+  }
+  
+  
+  .generate_result_button{
+    background-color: #ff0000;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+    text-decoration: none;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+  
+  .generate_result_button {
+    background-color: #fe1010;
+  }
+
+  .generate_result {
+    display: flex;
+    height: 100px;
+    position: relative;
+
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* ListeningModuleSec4.css */
+
+/* Add styling for the "Generate Result" button */
+.scorecard-button {
+  background-color: #fe1010; /* Change the background color as desired */
+  color: #fff; /* Change the text color as desired */
+  padding: 10px 20px; /* Adjust padding as needed */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px; /* Adjust font size as needed */
+  margin-top: 20px; /* Add margin to separate from the result text */
+}
+
+.scorecard-button:hover {
+  background-color: #fe1010; /* Change the hover background color as desired */
+}
+
+/* Center the scorecard image */
+.scorecard-container {
+  text-align: center;
+}
+
+.scorecard-image {
+  max-width: 100%; /* Ensure the image doesn't exceed its container */
+}
+
+
+.result-container {
+  background-color: #c9c9c9;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.result-container h2 {
+  font-size: 1.5rem;
+  color: black;
+}
+
+.result-container p {
+  font-size: 1.2rem;
+  margin-top: 10px;
+  color: black;
+}

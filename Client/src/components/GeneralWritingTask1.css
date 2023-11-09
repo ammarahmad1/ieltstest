@@ -1,0 +1,75 @@
+/* GeneralWritingTask.css */
+
+.general_writing-task-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  color: black;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+.general_writing-task-container p {
+  color: black;
+}
+.general_writing-task-container h2 {
+  color: black;
+}
+.general_writing-task-container ol {
+  color: black;
+}
+
+.writing-task-container h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.writing-task-container p {
+  font-size: 16px;
+}
+
+.writing-task-container ol {
+  margin-left: 20px;
+  font-size: 16px;
+}
+
+.letter-input {
+  margin-top: 20px;
+  color: black;
+}
+
+.letter-input label {
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.letter-input textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  resize: vertical;
+}
+
+.feedback h3{
+  color: black  ;
+}
+
+.writing-check-button {
+  display: block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #ff0000;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.writing-check-button:hover {
+  background-color: #0056b3;
+}

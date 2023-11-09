@@ -1,0 +1,79 @@
+/* ListeningModuleSec2.css */
+.listening-test-container {
+  text-align: left;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.test-title {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.audio-player {
+  width: 100%;
+  max-width: 400px;
+  margin-bottom: 20px;
+}
+
+.questions-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.listeninglabels {
+  display: flex;
+ 
+}
+
+input[type="radio"] {
+  margin-right: 10px;
+}
+.listeninglabels {
+    /* display: flex; */
+    display: inline-grid;
+    text-align: center;
+} 
+
+
+.images_sec3 {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.graph-image,
+.graph-image2 {
+  max-width: 100%;
+  height: auto;
+  margin: 0 10px;
+}
+
+.result-container {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.check-button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  margin: 10px 0;
+}
+
+.next_button {
+  background-color: #28a745;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.result-container h2 {
+  font-size: 1.5rem;
+}

@@ -1,0 +1,59 @@
+.general-writing-instructions {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #4d4d4d;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 20px;
+  }
+  
+  .task {
+    margin-top: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  
+  h4 {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  p {
+    font-size: 18px;
+  }
+  
+  ol {
+    margin-left: 20px;
+  }
+  
+  li {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .start-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff0e0e;
+   
+    border-radius: 20px;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 15px;
+    text-decoration: none; 
+  }
+  
+  .start-button:hover {
+    background-color: #cc0b0b;
+  }
+  
